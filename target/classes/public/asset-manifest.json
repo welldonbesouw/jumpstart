@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b77aced6.css",
+    "main.js": "/static/js/main.c05e22af.js",
+    "static/js/787.01cfcb08.chunk.js": "/static/js/787.01cfcb08.chunk.js",
+    "static/media/piano-class.jpg": "/static/media/piano-class.f09cf846260491aec9fb.jpg",
+    "static/media/cello-class.jpg": "/static/media/cello-class.7fba846a6ae157ea0304.jpg",
+    "static/media/repairs.jpg": "/static/media/repairs.abca60860b98770de1e3.jpg",
+    "static/media/drum-class2.jpg": "/static/media/drum-class2.36ccd008c85e881101f2.jpg",
+    "static/media/Guitar.jpeg": "/static/media/Guitar.effedc1c359562eeb1b7.jpeg",
+    "static/media/drum-class1.jpg": "/static/media/drum-class1.aeafa91b465cf28b7fef.jpg",
+    "static/media/guitar-class.jpg": "/static/media/guitar-class.ada0f7f8c14265d79659.jpg",
+    "static/media/playing-piano.jpg": "/static/media/playing-piano.c4f14c2e32fd04097ed7.jpg",
+    "static/media/ukulele-class.jpg": "/static/media/ukulele-class.5d38955ad335ba35e113.jpg",
+    "static/media/Nord88.webp": "/static/media/Nord88.feeddee539ed0a821675.webp",
+    "static/media/piano-class2.jpg": "/static/media/piano-class2.0327e8e16b25f1f15dc6.jpg",
+    "static/media/logo.png": "/static/media/logo.e67872749b4447bbcca0.png",
+    "static/media/daddario-xs-web.jpeg": "/static/media/daddario-xs-web.2744bfc98be15d113da6.jpeg",
+    "static/media/JNE-express.jpeg": "/static/media/JNE-express.d3b1a37fb293b5433ca4.jpeg",
+    "static/media/DHL-express.png": "/static/media/DHL-express.a810900bc647751a0f6d.png",
+    "index.html": "/index.html",
+    "main.b77aced6.css.map": "/static/css/main.b77aced6.css.map",
+    "main.c05e22af.js.map": "/static/js/main.c05e22af.js.map",
+    "787.01cfcb08.chunk.js.map": "/static/js/787.01cfcb08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b77aced6.css",
+    "static/js/main.c05e22af.js"
+  ]
+}
